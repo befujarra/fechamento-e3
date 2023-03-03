@@ -1,0 +1,30 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@500;900&display=swap");
+
+body {
+  text-align: center;
+  background-color: rgb(0, 0, 0);
+  font-family: "Roboto", sans-serif;
+}
+h1 {
+  color: aliceblue;
+  margin-top: 50px;
+  font-size: 100px;
+}
+p {
+  color: aliceblue;
+  font-size: 60px;
+}
+#job {
+  font-size: 30px;
+}
+img {
+  width: 550px;
+}
+
+button {
+  font-size: 30px;
+  border-radius: 15px;
+  padding: 20px;
+  cursor: pointer;
+  background-color: rgb(176, 238, 152);
+}
